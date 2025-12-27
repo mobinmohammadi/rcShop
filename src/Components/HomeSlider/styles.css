@@ -1,0 +1,44 @@
+
+.swiper {
+  width: 100%;
+  height: 200px;
+  margin-top: 20px;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  object-fit: cover;
+}
+
+.swiper-slide > div{
+    width: 150px!important;
+    border: blue 2px solid;
+    border-radius: 100%;
+    padding: 10px;
+    
+}
+
+.swiper-slide > div:hover{
+    border: blue 4px solid;
+    padding: 15px;
+    transition: all .1s ease;
+    cursor: pointer;
+
+}
+
+.swiper-slide{
+    width: 250px!important;
+    direction: rtl;
+    margin-top: 20px;
+}
