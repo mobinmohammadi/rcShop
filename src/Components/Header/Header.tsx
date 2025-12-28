@@ -2,7 +2,7 @@ import LeftContent from "./LeftContent/LeftContent";
 
 export default function Header() {
   return (
-    <div className="container-custom pt-6">
+    <div className="container-custom  pt-6">
       <div className="flex  justify-between">
         <div className="flex gap-5 items-center">
           <div className="">

@@ -5,6 +5,13 @@
   margin: 0 auto;
 }
 
+@media screen and (min-width : 1200px) {
+  .container-custom {
+    width: 1200px;
+    margin: 0 auto;
+  }
+}
+
 @font-face {
   font-family: Dana;
   src: url("./../public/Fonts/Dana/woff2/DanaFaNum-Medium.woff2");
@@ -43,4 +50,8 @@
 body {
   font-family: "Dana";
   direction: rtl;
+}
+
+.OfferTime{
+  background-image: url(./../public/Images/1.webp);
 }
