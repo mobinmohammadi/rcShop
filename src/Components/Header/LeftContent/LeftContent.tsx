@@ -4,7 +4,7 @@ function LeftContent() {
         <div>
             <div className="flex items-center gap-7">
 
-                <div className="border flex items-center gap-5 cursor-pointer border-gray-900 rounded-md pt-2 pb-2 pr-4 pl-4">
+                <div className="border flex items-center gap-5 cursor-pointer border-gray-900 text rounded-md pt-2 pb-2 pr-4 pl-4">
                     <span>
                         ورود
                     </span>

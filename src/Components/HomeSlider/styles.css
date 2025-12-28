@@ -16,29 +16,22 @@
   align-items: center;
 }
 
-.swiper-slide img {
+/* .swiper-slide img {
   display: block;
   object-fit: cover;
 }
 
 .swiper-slide > div{
-    width: 150px!important;
-    border: blue 2px solid;
+    width: 120px!important;
     border-radius: 100%;
     padding: 10px;
     
 }
 
-.swiper-slide > div:hover{
-    border: blue 4px solid;
-    padding: 15px;
-    transition: all .1s ease;
-    cursor: pointer;
 
-}
 
 .swiper-slide{
     width: 250px!important;
     direction: rtl;
     margin-top: 20px;
-}
+} */

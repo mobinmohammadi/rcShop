@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-.container-custom{
+.container-custom {
   width: 94%;
   margin: 0 auto;
 }
@@ -10,9 +10,34 @@
   src: url("./../public/Fonts/Dana/woff2/DanaFaNum-Medium.woff2");
 }
 
+@font-face {
+  font-family: Dana-Bold;
+  src: url("./../public/Fonts/Dana/woff2/DanaFaNum-DemiBold.woff2");
+}
 
-@theme{
-  --font-Dana : Dana
+@font-face {
+  font-family: Morabba;
+  src: url("./../public/Fonts/Morabba/woff2/Morabba-Medium.woff2");
+}
+
+@font-face {
+  font-family: Morabba-Bold;
+  src: url("./../public/Fonts/Morabba/woff2/Morabba-Bold.woff2");
+}
+
+@theme {
+  --font-Dana: Dana;
+  --text-md: 15px;
+  --breakpoint-mmd: 768px;
+  --breakpoint-md: 548px;
+  --breakpoint-xs: 468px;
+  --breakpoint-x: 400px;
+  --breakpoint-s: 200px;
+  --text-x: 10px;
+  --text-xxs: 12px;
+  --font-Dana-Bold: Dana-Bold;
+  --font-Morabba: Morabba;
+  --font-Morabba-Bold: Morabba-Bold;
 }
 
 body {
