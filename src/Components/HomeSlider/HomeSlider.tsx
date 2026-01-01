@@ -23,15 +23,15 @@ export default function HomeSlider() {
                                 spaceBetween={10}
                                 centeredSlides={false}
 
-                                autoplay={{
-                                  delay: 2500,
-                                  
-                                  disableOnInteraction: false,
-                                }}
+                                // autoplay={{
+                                //         delay: 2500,
+
+                                //         disableOnInteraction: false,
+                                // }}
 
                                 navigation={true}
                                 modules={[Autoplay, Pagination, Navigation]}
-                                
+
                                 className="my-slider-1"
                         >
                                 <div className="">

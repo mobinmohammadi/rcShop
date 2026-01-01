@@ -1,0 +1,981 @@
+{
+    "theBestBrandPhone": [
+        {
+            "brand": "اپل",
+            "image": "./Images/bestPhoneBrand/3.webp",
+            "phones": [
+                {
+                    "name": "Apple iPhone 17 Pro Max CH/A ظرفیت 256 گیگابایت رم 12 گیگابایت - Not Active رجیستر شده",
+                    "images": [
+                        "/images/iphone17pro_1.jpg",
+                        "/images/iphone17pro_2.jpg",
+                        "/images/iphone17pro_3.jpg",
+                        "/images/iphone17pro_4.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Apple A19 Pro",
+                        "screen": "6.9 اینچ LTPO Super Retina XDR OLED, 120Hz",
+                        "memory": "12GB رم / 256GB حافظه داخلی",
+                        "battery": "Li‑Ion ≈ 5088mAh با شارژ سریع و بی‌سیم",
+                        "camera": "سه دوربین 48 مگاپیکسل (Wide, Telephoto, Ultra Wide)",
+                        "os": "iOS 26"
+                    },
+                    "colors": [
+                        "آبی پررنگ",
+                        "نارنجی کیهانی",
+                        "نقره‌ای"
+                    ],
+                    "description": "پرچمدار جدید اپل با نمایشگر بسیار روشن و روان، پردازنده قوی A19 Pro، دوربین چندگانه حرفه‌ای و عمر باتری بهبود یافته نسبت به نسل قبل",
+                    "rating": 4.9,
+                    "user_reviews": [
+                        {
+                            "title": "باتری قوی و پایدار",
+                            "comment": "کاربران گزارش داده‌اند باتری بسیار خوب عمل می‌کند و تا پایان روز دوام می‌آورد.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        },
+                        {
+                            "title": "نمایشگر فوق‌العاده",
+                            "comment": "صفحه‌نمایش 120Hz و روشنایی بالا بسیار واضح و روان است.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        },
+                        {
+                            "title": "اندازه بزرگ",
+                            "comment": "برخی کاربران به بزرگی و وزن زیاد اشاره کرده‌اند.",
+                            "sentiment": "مختلط",
+                            "score": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Apple iPhone 17 CH/A ظرفیت 128 گیگابایت رم 8 گیگابایت - Active رجیستر شده",
+                    "images": [
+                        "/images/iphone17_1.jpg",
+                        "/images/iphone17_2.jpg",
+                        "/images/iphone17_3.jpg",
+                        "/images/iphone17_4.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Apple A19",
+                        "screen": "6.1 اینچ OLED Super Retina XDR, 60Hz",
+                        "memory": "8GB رم / 128GB حافظه داخلی",
+                        "battery": "≈ 4000mAh",
+                        "camera": "دوربین دوگانه 48MP + 12MP",
+                        "os": "iOS 26"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای",
+                        "طلایی"
+                    ],
+                    "description": "نسخه استاندارد آیفون 17 با نمایشگر با کیفیت و عملکرد سریع، مناسب استفاده روزمره",
+                    "rating": 4.7,
+                    "user_reviews": [
+                        {
+                            "title": "ارزش خرید بالا",
+                            "comment": "با قیمت مناسب، عملکرد بسیار خوب دارد.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        },
+                        {
+                            "title": "دوربین خوب",
+                            "comment": "کیفیت عکس‌ها عالی است مخصوصاً در نور روز.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        },
+                        {
+                            "title": "باتری متوسط",
+                            "comment": "باتری برای یک روز کامل کافی است ولی بیشتر نیازمند شارژ مجدد است.",
+                            "sentiment": "مختلط",
+                            "score": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Apple iPhone 16 Pro Max CH/A ظرفیت 512 گیگابایت رم 12 گیگابایت - Active رجیستر شده",
+                    "images": [
+                        "/images/iphone16promax_1.jpg",
+                        "/images/iphone16promax_2.jpg",
+                        "/images/iphone16promax_3.jpg",
+                        "/images/iphone16promax_4.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Apple A18 Pro",
+                        "screen": "6.9 اینچ Super Retina XDR OLED, 120Hz",
+                        "memory": "12GB رم / 512GB حافظه داخلی",
+                        "battery": "≈ 5000mAh",
+                        "camera": "سه دوربین 48MP + 12MP + 12MP",
+                        "os": "iOS 25"
+                    },
+                    "colors": [
+                        "نقره‌ای",
+                        "طلایی",
+                        "مشکی"
+                    ],
+                    "description": "نسخه پیشرفته آیفون با دوربین حرفه‌ای و عملکرد سریع",
+                    "rating": 4.8,
+                    "user_reviews": [
+                        {
+                            "title": "عالی",
+                            "comment": "گوشی بسیار سریع و با کیفیت است.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Apple iPhone 16 CH/A ظرفیت 256 گیگابایت رم 8 گیگابایت - Active رجیستر شده",
+                    "images": [
+                        "/images/iphone16_1.jpg",
+                        "/images/iphone16_2.jpg",
+                        "/images/iphone16_3.jpg",
+                        "/images/iphone16_4.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Apple A18",
+                        "screen": "6.1 اینچ OLED, 60Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "≈ 4200mAh",
+                        "camera": "دوربین دوگانه 48MP + 12MP",
+                        "os": "iOS 25"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی",
+                        "نقره‌ای"
+                    ],
+                    "description": "آیفون 16 با عملکرد عالی و دوربین خوب",
+                    "rating": 4.7,
+                    "user_reviews": [
+                        {
+                            "title": "رضایت بخش",
+                            "comment": "کاربرها از کیفیت دوربین و عملکرد رضایت دارند.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Apple iPhone 15 Pro Max CH/A ظرفیت 256 گیگابایت رم 8 گیگابایت - Active رجیستر شده",
+                    "images": [
+                        "/images/iphone15pro_1.jpg",
+                        "/images/iphone15pro_2.jpg",
+                        "/images/iphone15pro_3.jpg",
+                        "/images/iphone15pro_4.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Apple A17 Pro",
+                        "screen": "6.7 اینچ Super Retina XDR OLED, 120Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "≈ 4500mAh",
+                        "camera": "سه دوربین 48MP + 12MP + 12MP",
+                        "os": "iOS 24"
+                    },
+                    "colors": [
+                        "آبی",
+                        "طلایی",
+                        "نقره‌ای"
+                    ],
+                    "description": "آیفون 15 پرو مکس با صفحه نمایش بزرگ و دوربین پیشرفته",
+                    "rating": 4.8,
+                    "user_reviews": [
+                        {
+                            "title": "عالی",
+                            "comment": "کیفیت نمایشگر و دوربین بسیار خوب است.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Apple iPhone 15 CH/A ظرفیت 128 گیگابایت رم 6 گیگابایت - Active رجیستر شده",
+                    "images": [
+                        "/images/iphone15_1.jpg",
+                        "/images/iphone15_2.jpg",
+                        "/images/iphone15_3.jpg",
+                        "/images/iphone15_4.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Apple A17",
+                        "screen": "6.1 اینچ OLED, 60Hz",
+                        "memory": "6GB رم / 128GB حافظه داخلی",
+                        "battery": "≈ 4300mAh",
+                        "camera": "دوربین دوگانه 48MP + 12MP",
+                        "os": "iOS 24"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی",
+                        "نقره‌ای"
+                    ],
+                    "description": "آیفون 15 استاندارد با عملکرد خوب برای کار روزمره",
+                    "rating": 4.6,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "کاربران از عملکرد گوشی راضی هستند.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Apple iPhone 14 Pro Max CH/A ظرفیت 512 گیگابایت رم 8 گیگابایت - Active رجیستر شده",
+                    "images": [
+                        "/images/iphone14promax_1.jpg",
+                        "/images/iphone14promax_2.jpg",
+                        "/images/iphone14promax_3.jpg",
+                        "/images/iphone14promax_4.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Apple A16 Pro",
+                        "screen": "6.7 اینچ Super Retina XDR OLED, 120Hz",
+                        "memory": "8GB رم / 512GB حافظه داخلی",
+                        "battery": "≈ 4500mAh",
+                        "camera": "سه دوربین 48MP + 12MP + 12MP",
+                        "os": "iOS 23"
+                    },
+                    "colors": [
+                        "نقره‌ای",
+                        "طلایی",
+                        "مشکی"
+                    ],
+                    "description": "آیفون 14 پرو مکس با دوربین حرفه‌ای و صفحه نمایش بزرگ",
+                    "rating": 4.8,
+                    "user_reviews": [
+                        {
+                            "title": "عالی",
+                            "comment": "کارایی و کیفیت دوربین عالی است.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Apple iPhone 14 Pro CH/A ظرفیت 256 گیگابایت رم 6 گیگابایت - Active رجیستر شده",
+                    "images": [
+                        "/images/iphone14pro_1.jpg",
+                        "/images/iphone14pro_2.jpg",
+                        "/images/iphone14pro_3.jpg",
+                        "/images/iphone14pro_4.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Apple A16",
+                        "screen": "6.1 اینچ OLED, 60Hz",
+                        "memory": "6GB رم / 256GB حافظه داخلی",
+                        "battery": "≈ 4300mAh",
+                        "camera": "دوربین دوگانه 48MP + 12MP",
+                        "os": "iOS 23"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی",
+                        "نقره‌ای"
+                    ],
+                    "description": "آیفون 14 پرو با دوربین و عملکرد عالی",
+                    "rating": 4.7,
+                    "user_reviews": [
+                        {
+                            "title": "راضی",
+                            "comment": "بسیاری از کاربران از دوربین و سرعت گوشی رضایت دارند.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Apple iPhone 14 CH/A ظرفیت 128 گیگابایت رم 4 گیگابایت - Active رجیستر شده",
+                    "images": [
+                        "/images/iphone14_1.jpg",
+                        "/images/iphone14_2.jpg",
+                        "/images/iphone14_3.jpg",
+                        "/images/iphone14_4.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Apple A15",
+                        "screen": "6.1 اینچ OLED, 60Hz",
+                        "memory": "4GB رم / 128GB حافظه داخلی",
+                        "battery": "≈ 4300mAh",
+                        "camera": "دوربین دوگانه 12MP + 12MP",
+                        "os": "iOS 23"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای",
+                        "طلایی"
+                    ],
+                    "description": "آیفون 14 استاندارد با کیفیت مناسب و عملکرد خوب",
+                    "rating": 4.5,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "کیفیت گوشی برای استفاده روزمره مناسب است.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "brand": "سامسونگ",
+            "image": "./Images/bestPhoneBrand/1.webp",
+            "phones": [
+                {
+                    "name": "Samsung Galaxy S24 Ultra 5G ظرفیت 512 گیگابایت رم 12 گیگابایت - Active رجیستر شده",
+                    "images": [
+                        "/images/galaxys24ultra_1.jpg",
+                        "/images/galaxys24ultra_2.jpg",
+                        "/images/galaxys24ultra_3.jpg",
+                        "/images/galaxys24ultra_4.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Exynos 2400 / Snapdragon 8 Gen 3",
+                        "screen": "6.8 اینچ AMOLED, 120Hz",
+                        "memory": "12GB رم / 512GB حافظه داخلی",
+                        "battery": "5000mAh",
+                        "camera": "دوربین چهارگانه 200MP + 12MP + 10MP + 10MP",
+                        "os": "Android 14, One UI 6"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "سبز تیره",
+                        "نقره‌ای"
+                    ],
+                    "description": "پرچمدار سامسونگ با نمایشگر AMOLED بزرگ، دوربین 200MP و عملکرد سریع در همه زمینه‌ها",
+                    "rating": 4.8,
+                    "user_reviews": [
+                        {
+                            "title": "دوربین عالی",
+                            "comment": "عکس‌ها در نور روز و شب کیفیت فوق‌العاده دارند.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        },
+                        {
+                            "title": "سنگین و بزرگ",
+                            "comment": "برخی کاربران استفاده با یک دست مشکل است.",
+                            "sentiment": "منفی",
+                            "score": 3
+                        },
+                        {
+                            "title": "صفحه نمایش عالی",
+                            "comment": "AMOLED و نرخ تازه‌سازی 120Hz بسیار روان است.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "brand": "شیائومی",
+            "image": "./Images/bestPhoneBrand/5.webp",
+            "phones": [
+                {
+                    "name": "شیائومی 14 پرو پرچمدار\nحافظه 512 گیگابایت رم 12 گیگابایت",
+                    "images": [
+                        "/images/xiaomi14pro_1.jpg",
+                        "/images/xiaomi14pro_2.jpg",
+                        "/images/xiaomi14pro_3.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 8 Gen 3",
+                        "screen": "6.7 اینچ AMOLED, 120Hz",
+                        "memory": "12GB رم / 512GB حافظه داخلی",
+                        "battery": "5000mAh",
+                        "camera": "سه‌گانه 200MP + 12MP + 12MP",
+                        "os": "Android 14, MIUI 16"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای",
+                        "طلایی"
+                    ],
+                    "description": "پرچمدار شیائومی با دوربین حرفه‌ای و نمایشگر AMOLED بزرگ",
+                    "rating": 4.7,
+                    "user_reviews": [
+                        {
+                            "title": "عملکرد عالی",
+                            "comment": "گوشی سریع و بدون لگ است.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "شیائومی 14 استاندارد\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/xiaomi14_1.jpg",
+                        "/images/xiaomi14_2.jpg",
+                        "/images/xiaomi14_3.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 8 Gen 3",
+                        "screen": "6.5 اینچ AMOLED, 120Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4800mAh",
+                        "camera": "دوگانه 108MP + 12MP",
+                        "os": "Android 14, MIUI 16"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "آبی",
+                        "طلایی"
+                    ],
+                    "description": "گوشی شیائومی با عملکرد سریع و دوربین خوب",
+                    "rating": 4.6,
+                    "user_reviews": [
+                        {
+                            "title": "ارزش خرید",
+                            "comment": "با قیمت مناسب عملکرد عالی دارد.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "شیائومی 13 پرو پیشرفته\nحافظه 512 گیگابایت رم 12 گیگابایت",
+                    "images": [
+                        "/images/xiaomi13pro_1.jpg",
+                        "/images/xiaomi13pro_2.jpg",
+                        "/images/xiaomi13pro_3.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 8 Gen 2",
+                        "screen": "6.7 اینچ AMOLED, 120Hz",
+                        "memory": "12GB رم / 512GB حافظه داخلی",
+                        "battery": "5000mAh",
+                        "camera": "سه‌گانه 108MP + 12MP + 12MP",
+                        "os": "Android 13, MIUI 14"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای"
+                    ],
+                    "description": "گوشی قدرتمند با نمایشگر AMOLED و دوربین حرفه‌ای",
+                    "rating": 4.7,
+                    "user_reviews": [
+                        {
+                            "title": "عالی",
+                            "comment": "کارایی و دوربین عالی است.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "شیائومی 13 استاندارد\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/xiaomi13_1.jpg",
+                        "/images/xiaomi13_2.jpg",
+                        "/images/xiaomi13_3.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 8 Gen 2",
+                        "screen": "6.5 اینچ AMOLED, 120Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4800mAh",
+                        "camera": "دوگانه 108MP + 12MP",
+                        "os": "Android 13, MIUI 14"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "شیائومی با عملکرد مناسب و باتری پایدار",
+                    "rating": 4.5,
+                    "user_reviews": [
+                        {
+                            "title": "رضایت‌بخش",
+                            "comment": "عملکرد برای استفاده روزمره عالی است.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "شیائومی 12 پرو پیشرفته\nحافظه 256 گیگابایت رم 12 گیگابایت",
+                    "images": [
+                        "/images/xiaomi12pro_1.jpg",
+                        "/images/xiaomi12pro_2.jpg",
+                        "/images/xiaomi12pro_3.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 8 Gen 1",
+                        "screen": "6.73 اینچ AMOLED, 120Hz",
+                        "memory": "12GB رم / 256GB حافظه داخلی",
+                        "battery": "4600mAh",
+                        "camera": "سه‌گانه 108MP + 12MP + 12MP",
+                        "os": "Android 12, MIUI 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای"
+                    ],
+                    "description": "مدل پیشرفته با نمایشگر بزرگ و دوربین عالی",
+                    "rating": 4.6,
+                    "user_reviews": [
+                        {
+                            "title": "عالی",
+                            "comment": "کیفیت نمایشگر و دوربین خوب است.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "شیائومی 12 استاندارد\nحافظه 128 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/xiaomi12_1.jpg",
+                        "/images/xiaomi12_2.jpg",
+                        "/images/xiaomi12_3.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 8 Gen 1",
+                        "screen": "6.28 اینچ AMOLED, 120Hz",
+                        "memory": "8GB رم / 128GB حافظه داخلی",
+                        "battery": "4500mAh",
+                        "camera": "دوگانه 50MP + 13MP",
+                        "os": "Android 12, MIUI 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی",
+                        "آبی"
+                    ],
+                    "description": "گوشی با عملکرد مناسب برای کار روزمره",
+                    "rating": 4.4,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "عملکرد مناسب و باتری خوب.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "شیائومی 11 پرو پیشرفته\nحافظه 256 گیگابایت رم 12 گیگابایت",
+                    "images": [
+                        "/images/xiaomi11pro_1.jpg",
+                        "/images/xiaomi11pro_2.jpg",
+                        "/images/xiaomi11pro_3.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 888",
+                        "screen": "6.81 اینچ AMOLED, 120Hz",
+                        "memory": "12GB رم / 256GB حافظه داخلی",
+                        "battery": "4600mAh",
+                        "camera": "سه‌گانه 108MP + 12MP + 12MP",
+                        "os": "Android 11, MIUI 12"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای"
+                    ],
+                    "description": "گوشی پیشرفته با نمایشگر بزرگ و دوربین حرفه‌ای",
+                    "rating": 4.5,
+                    "user_reviews": [
+                        {
+                            "title": "عالی",
+                            "comment": "کیفیت خوب و سریع است.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "شیائومی 11 استاندارد\nحافظه 128 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/xiaomi11_1.jpg",
+                        "/images/xiaomi11_2.jpg",
+                        "/images/xiaomi11_3.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 888",
+                        "screen": "6.67 اینچ AMOLED, 120Hz",
+                        "memory": "8GB رم / 128GB حافظه داخلی",
+                        "battery": "4500mAh",
+                        "camera": "دوگانه 108MP + 12MP",
+                        "os": "Android 11, MIUI 12"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "مدل استاندارد با کیفیت خوب",
+                    "rating": 4.3,
+                    "user_reviews": [
+                        {
+                            "title": "رضایت‌بخش",
+                            "comment": "برای استفاده روزمره عالی است.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "شیائومی نوت 12 پرو میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/xiaominote12pro_1.jpg",
+                        "/images/xiaominote12pro_2.jpg"
+                    ],
+                    "specs": {
+                        "processor": "MediaTek Dimensity 1080",
+                        "screen": "6.67 اینچ AMOLED, 120Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4500mAh",
+                        "camera": "سه‌گانه 108MP + 8MP + 2MP",
+                        "os": "Android 12, MIUI 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "آبی"
+                    ],
+                    "description": "گوشی میان‌رده با دوربین عالی",
+                    "rating": 4.4,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "دوربین و باتری مناسب است.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "شیائومی نوت 12 استاندارد\nحافظه 128 گیگابایت رم 6 گیگابایت",
+                    "images": [
+                        "/images/xiaominote12_1.jpg",
+                        "/images/xiaominote12_2.jpg"
+                    ],
+                    "specs": {
+                        "processor": "MediaTek Dimensity 1080",
+                        "screen": "6.6 اینچ AMOLED, 90Hz",
+                        "memory": "6GB رم / 128GB حافظه داخلی",
+                        "battery": "4300mAh",
+                        "camera": "دوگانه 64MP + 8MP",
+                        "os": "Android 12, MIUI 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "گوشی اقتصادی با عملکرد مناسب",
+                    "rating": 4.2,
+                    "user_reviews": [
+                        {
+                            "title": "قیمت مناسب",
+                            "comment": "برای قیمتش امکانات خوبی دارد.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "brand": "انر",
+            "image": "./Images/bestPhoneBrand/4.webp",
+            "phones": [
+                {
+                    "name": "انر X1 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/enerx1_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "MediaTek Dimensity 9200",
+                        "screen": "6.5 اینچ AMOLED, 90Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4500mAh",
+                        "camera": "دوگانه 108MP + 12MP",
+                        "os": "Android 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "آبی"
+                    ],
+                    "description": "گوشی انر با دوربین خوب و باتری پایدار",
+                    "rating": 4.5,
+                    "user_reviews": [
+                        {
+                            "title": "باتری خوب",
+                            "comment": "تا پایان روز شارژ نگه می‌دارد.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "انر X2 پرچمدار\nحافظه 512 گیگابایت رم 12 گیگابایت",
+                    "images": [
+                        "/images/enerx2_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 8 Gen 2",
+                        "screen": "6.7 اینچ AMOLED, 120Hz",
+                        "memory": "12GB رم / 512GB حافظه داخلی",
+                        "battery": "5000mAh",
+                        "camera": "سه‌گانه 200MP + 12MP + 12MP",
+                        "os": "Android 14"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای"
+                    ],
+                    "description": "پرچمدار انر با دوربین حرفه‌ای",
+                    "rating": 4.7,
+                    "user_reviews": [
+                        {
+                            "title": "عالی",
+                            "comment": "عملکرد و دوربین عالی است.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "انر X3 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/enerx3_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 8 Gen 1",
+                        "screen": "6.6 اینچ AMOLED, 120Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4800mAh",
+                        "camera": "دوگانه 108MP + 12MP",
+                        "os": "Android 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "آبی"
+                    ],
+                    "description": "گوشی میان‌رده انر با کیفیت خوب",
+                    "rating": 4.4,
+                    "user_reviews": [
+                        {
+                            "title": "رضایت‌بخش",
+                            "comment": "عملکرد مناسب و دوربین خوب.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "انر X4 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت",
+                    "images": [
+                        "/images/enerx4_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "MediaTek Dimensity 920",
+                        "screen": "6.5 اینچ AMOLED, 90Hz",
+                        "memory": "6GB رم / 128GB حافظه داخلی",
+                        "battery": "4300mAh",
+                        "camera": "دوگانه 64MP + 8MP",
+                        "os": "Android 12"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "مدل اقتصادی انر",
+                    "rating": 4.2,
+                    "user_reviews": [
+                        {
+                            "title": "قیمت مناسب",
+                            "comment": "برای قیمتش امکانات خوبی دارد.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "انر X5 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/enerx5_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 7 Gen 2",
+                        "screen": "6.6 اینچ AMOLED, 120Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4500mAh",
+                        "camera": "سه‌گانه 108MP + 12MP + 12MP",
+                        "os": "Android 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای"
+                    ],
+                    "description": "گوشی میان‌رده با دوربین عالی",
+                    "rating": 4.3,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "عملکرد و دوربین مناسب.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "انر X6 پرچمدار\nحافظه 512 گیگابایت رم 12 گیگابایت",
+                    "images": [
+                        "/images/enerx6_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 8 Gen 3",
+                        "screen": "6.7 اینچ AMOLED, 120Hz",
+                        "memory": "12GB رم / 512GB حافظه داخلی",
+                        "battery": "5000mAh",
+                        "camera": "چهارگانه 200MP + 12MP + 10MP + 10MP",
+                        "os": "Android 14"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای"
+                    ],
+                    "description": "پرچمدار کامل انر",
+                    "rating": 4.8,
+                    "user_reviews": [
+                        {
+                            "title": "عالی",
+                            "comment": "کیفیت نمایشگر و دوربین بسیار خوب است.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "انر X7 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/enerx7_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 8 Gen 2",
+                        "screen": "6.6 اینچ AMOLED, 120Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4800mAh",
+                        "camera": "دوگانه 108MP + 12MP",
+                        "os": "Android 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "میان‌رده انر با نمایشگر خوب",
+                    "rating": 4.4,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "عملکرد روزمره عالی است.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "انر X8 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت",
+                    "images": [
+                        "/images/enerx8_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "MediaTek Dimensity 920",
+                        "screen": "6.5 اینچ AMOLED, 90Hz",
+                        "memory": "6GB رم / 128GB حافظه داخلی",
+                        "battery": "4300mAh",
+                        "camera": "دوگانه 64MP + 8MP",
+                        "os": "Android 12"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "آبی"
+                    ],
+                    "description": "اقتصادی و سبک",
+                    "rating": 4.2,
+                    "user_reviews": [
+                        {
+                            "title": "قیمت خوب",
+                            "comment": "برای استفاده روزمره کافی است.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "انر X9 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/enerx9_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 7 Gen 2",
+                        "screen": "6.6 اینچ AMOLED, 120Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4500mAh",
+                        "camera": "دوگانه 108MP + 12MP",
+                        "os": "Android 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای"
+                    ],
+                    "description": "میان‌رده قابل اعتماد",
+                    "rating": 4.3,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "عملکرد و دوربین مناسب است.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "انر X10 پرچمدار\nحافظه 512 گیگابایت رم 12 گیگابایت",
+                    "images": [
+                        "/images/enerx10_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Snapdragon 8 Gen 3",
+                        "screen": "6.7 اینچ AMOLED, 120Hz",
+                        "memory": "12GB رم / 512GB حافظه داخلی",
+                        "battery": "5000mAh",
+                        "camera": "چهارگانه 200MP + 12MP + 10MP + 10MP",
+                        "os": "Android 14"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "پرچمدار نهایی انر",
+                    "rating": 4.8,
+                    "user_reviews": [
+                        {
+                            "title": "عالی",
+                            "comment": "بهترین عملکرد و دوربین را دارد.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "brand": "پوگو",
+            "image": "./Images/bestPhoneBrand/2.webp",
+            "phones": [
+                {"name":"پوگو Z1 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت","images":["/images/pogoz1_1.jpg"],"specs":{"processor":"Unisoc Tiger T700","screen":"6.4 اینچ IPS LCD, 60Hz","memory":"6GB رم / 128GB حافظه داخلی","battery":"4000mAh","camera":"دوگانه 64MP + 8MP","os":"Android 12"},"colors":["مشکی","نقره‌ای"],"description":"گوشی پوگو با قیمت مناسب و عملکرد خوب برای استفاده روزمره","rating":4.3,"user_reviews":[{"title":"قیمت مناسب","comment":"برای قیمتش امکانات خوبی دارد.","sentiment":"مثبت","score":4}]},
+                {"name":"پوگو Z2 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت","images":["/images/pogoz2_1.jpg"],"specs":{"processor":"Unisoc Tiger T710","screen":"6.5 اینچ IPS LCD, 90Hz","memory":"8GB رم / 256GB حافظه داخلی","battery":"4300mAh","camera":"سه‌گانه 108MP + 8MP + 2MP","os":"Android 13"},"colors":["مشکی","طلایی"],"description":"میان‌رده پوگو با دوربین بهتر","rating":4.4,"user_reviews":[{"title":"خوب","comment":"عملکرد مناسب و باتری خوب.","sentiment":"مثبت","score":4}]},
+                {"name":"پوگو Z3 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت","images":["/images/pogoz3_1.jpg"],"specs":{"processor":"Unisoc Tiger T700","screen":"6.4 اینچ IPS LCD, 60Hz","memory":"6GB رم / 128GB حافظه داخلی","battery":"4000mAh","camera":"دوگانه 64MP + 8MP","os":"Android 12"},"colors":["مشکی","آبی"],"description":"مدل اقتصادی پوگو با باتری مناسب","rating":4.2,"user_reviews":[{"title":"خوب","comment":"برای استفاده روزمره کافی است.","sentiment":"مثبت","score":4}]},
+                {"name":"پوگو Z4 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت","images":["/images/pogoz4_1.jpg"],"specs":{"processor":"Unisoc Tiger T710","screen":"6.5 اینچ IPS LCD, 90Hz","memory":"8GB رم / 256GB حافظه داخلی","battery":"4300mAh","camera":"سه‌گانه 108MP + 12MP + 2MP","os":"Android 13"},"colors":["مشکی","طلایی"],"description":"میان‌رده پوگو با نمایشگر بهتر","rating":4.3,"user_reviews":[{"title":"خوب","comment":"عملکرد و دوربین مناسب است.","sentiment":"مثبت","score":4}]},
+                {"name":"پوگو Z5 پیشرفته\nحافظه 512 گیگابایت رم 12 گیگابایت","images":["/images/pogoz5_1.jpg"],"specs":{"processor":"Unisoc Tiger T720","screen":"6.6 اینچ IPS LCD, 120Hz","memory":"12GB رم / 512GB حافظه داخلی","battery":"4500mAh","camera":"چهارگانه 200MP + 12MP + 10MP + 10MP","os":"Android 14"},"colors":["مشکی","طلایی"],"description":"پرچمدار پوگو با دوربین حرفه‌ای","rating":4.7,"user_reviews":[{"title":"عالی","comment":"بهترین عملکرد و دوربین را دارد.","sentiment":"مثبت","score":5}]},
+                {"name":"پوگو Z6 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت","images":["/images/pogoz6_1.jpg"],"specs":{"processor":"Unisoc Tiger T710","screen":"6.5 اینچ IPS LCD, 90Hz","memory":"8GB رم / 256GB حافظه داخلی","battery":"4400mAh","camera":"سه‌گانه 108MP + 12MP + 2MP","os":"Android 13"},"colors":["مشکی","نقره‌ای"],"description":"میان‌رده پوگو با عملکرد خوب","rating":4.4,"user_reviews":[{"title":"خوب","comment":"عملکرد روزمره مناسب است.","sentiment":"مثبت","score":4}]},
+                {"name":"پوگو Z7 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت","images":["/images/pogoz7_1.jpg"],"specs":{"processor":"Unisoc Tiger T700","screen":"6.4 اینچ IPS LCD, 60Hz","memory":"6GB رم / 128GB حافظه داخلی","battery":"4000mAh","camera":"دوگانه 64MP + 8MP","os":"Android 12"},"colors":["مشکی","طلایی"],"description":"مدل اقتصادی و سبک پوگو","rating":4.2,"user_reviews":[{"title":"خوب","comment":"قیمت مناسب و عملکرد کافی.","sentiment":"مثبت","score":4}]},
+                {"name":"پوگو Z8 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت","images":["/images/pogoz8_1.jpg"],"specs":{"processor":"Unisoc Tiger T710","screen":"6.5 اینچ IPS LCD, 90Hz","memory":"8GB رم / 256GB حافظه داخلی","battery":"4300mAh","camera":"سه‌گانه 108MP + 12MP + 2MP","os":"Android 13"},"colors":["مشکی","طلایی"],"description":"میان‌رده قابل اعتماد پوگو","rating":4.3,"user_reviews":[{"title":"خوب","comment":"عملکرد و دوربین مناسب است.","sentiment":"مثبت","score":4}]},
+                {"name":"پوگو Z9 پیشرفته\nحافظه 512 گیگابایت رم 12 گیگابایت","images":["/images/pogoz9_1.jpg"],"specs":{"processor":"Unisoc Tiger T720","screen":"6.6 اینچ IPS LCD, 120Hz","memory":"12GB رم / 512GB حافظه داخلی","battery":"4500mAh","camera":"چهارگانه 200MP + 12MP + 10MP + 10MP","os":"Android 14"},"colors":["مشکی","طلایی"],"description":"پرچمدار پوگو با بهترین عملکرد","rating":4.8,"user_reviews":[{"title":"عالی","comment":"بهترین عملکرد و دوربین را دارد.","sentiment":"مثبت","score":5}]},
+                {"name":"پوگو Z10 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت","images":["/images/pogoz10_1.jpg"],"specs":{"processor":"Unisoc Tiger T700","screen":"6.4 اینچ IPS LCD, 60Hz","memory":"6GB رم / 128GB حافظه داخلی","battery":"4000mAh","camera":"دوگانه 64MP + 8MP","os":"Android 12"},"colors":["مشکی","نقره‌ای"],"description":"اقتصادی و مناسب استفاده روزمره","rating":4.2,"user_reviews":[{"title":"خوب","comment":"برای قیمتش امکانات کافی دارد.","sentiment":"مثبت","score":4}]}
+            ]
+        }
+    ]
+}

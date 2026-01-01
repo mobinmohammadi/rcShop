@@ -1,4 +1,5 @@
 import Header from "../../Components/Header/Header";
+import ThebestOfMobile from "../../Components/Home/ThebestOfMobile/ThebestOfMobile";
 import HomeSlider from "../../Components/HomeSlider/HomeSlider";
 import SliderHeader from "../../Components/HomeSlider/SliderHeader/SliderHeader";
 import OfferTime from "../../Components/OfferTime/Components/OfferTime";
@@ -9,7 +10,8 @@ export default function Home() {
       <Header />
       <SliderHeader />
       <HomeSlider />
-      <OfferTime/>
+      <OfferTime />
+      <ThebestOfMobile />
     </div>
   );
 }
