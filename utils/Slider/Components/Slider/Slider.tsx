@@ -1,4 +1,3 @@
-import React, { useRef, useState } from 'react';
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -9,10 +8,9 @@ import 'swiper/css/pagination';
 import './styles.css';
 
 // import required modules
-import { Pagination } from 'swiper/modules';
 import BoxItemOffer from '../BoxItemOffer';
 
-export default function SliderOffer() {
+export default function Slider(OfferTimes: boolean) {
     return (
         <>
             <Swiper
@@ -22,7 +20,8 @@ export default function SliderOffer() {
                     clickable: true,
                 }}
                 // modules={[Pagination]}   
-                className="mySwiperOffer"
+                className={`mySwiperOffer 
+    ${!OfferTimes && '[&_.swiper-slide]:border-slate-300   [&_.swiper-slide]:pl-2 [&_.swiper-slide]:pr-2 [&_.swiper-slide]:border-l'}   `}
             >
                 <SwiperSlide>          <BoxItemOffer />
                 </SwiperSlide>
@@ -32,11 +31,14 @@ export default function SliderOffer() {
                 </SwiperSlide>
                 <SwiperSlide>          <BoxItemOffer />
                 </SwiperSlide>
-                <SwiperSlide>          <BoxItemOffer />
+                <SwiperSlide>
+                    <BoxItemOffer />
                 </SwiperSlide>
-                <SwiperSlide>          <BoxItemOffer />
+                <SwiperSlide>
+                    <BoxItemOffer />
                 </SwiperSlide>
-                <SwiperSlide>          <BoxItemOffer />
+                <SwiperSlide>
+                    <BoxItemOffer />
                 </SwiperSlide>
                 <SwiperSlide>          <BoxItemOffer />
                 </SwiperSlide>

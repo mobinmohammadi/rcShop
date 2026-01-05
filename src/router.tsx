@@ -6,10 +6,10 @@ import Home from "./Page/Home/Home";
 export const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home/>,
+    element: <Home />,
   },
-   {
+  {
     path: "/product",
-    element: <ProductPage/>,
+    element: <ProductPage />,
   },
 ]);

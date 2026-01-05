@@ -965,16 +965,458 @@
             "brand": "پوگو",
             "image": "./Images/bestPhoneBrand/2.webp",
             "phones": [
-                {"name":"پوگو Z1 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت","images":["/images/pogoz1_1.jpg"],"specs":{"processor":"Unisoc Tiger T700","screen":"6.4 اینچ IPS LCD, 60Hz","memory":"6GB رم / 128GB حافظه داخلی","battery":"4000mAh","camera":"دوگانه 64MP + 8MP","os":"Android 12"},"colors":["مشکی","نقره‌ای"],"description":"گوشی پوگو با قیمت مناسب و عملکرد خوب برای استفاده روزمره","rating":4.3,"user_reviews":[{"title":"قیمت مناسب","comment":"برای قیمتش امکانات خوبی دارد.","sentiment":"مثبت","score":4}]},
-                {"name":"پوگو Z2 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت","images":["/images/pogoz2_1.jpg"],"specs":{"processor":"Unisoc Tiger T710","screen":"6.5 اینچ IPS LCD, 90Hz","memory":"8GB رم / 256GB حافظه داخلی","battery":"4300mAh","camera":"سه‌گانه 108MP + 8MP + 2MP","os":"Android 13"},"colors":["مشکی","طلایی"],"description":"میان‌رده پوگو با دوربین بهتر","rating":4.4,"user_reviews":[{"title":"خوب","comment":"عملکرد مناسب و باتری خوب.","sentiment":"مثبت","score":4}]},
-                {"name":"پوگو Z3 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت","images":["/images/pogoz3_1.jpg"],"specs":{"processor":"Unisoc Tiger T700","screen":"6.4 اینچ IPS LCD, 60Hz","memory":"6GB رم / 128GB حافظه داخلی","battery":"4000mAh","camera":"دوگانه 64MP + 8MP","os":"Android 12"},"colors":["مشکی","آبی"],"description":"مدل اقتصادی پوگو با باتری مناسب","rating":4.2,"user_reviews":[{"title":"خوب","comment":"برای استفاده روزمره کافی است.","sentiment":"مثبت","score":4}]},
-                {"name":"پوگو Z4 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت","images":["/images/pogoz4_1.jpg"],"specs":{"processor":"Unisoc Tiger T710","screen":"6.5 اینچ IPS LCD, 90Hz","memory":"8GB رم / 256GB حافظه داخلی","battery":"4300mAh","camera":"سه‌گانه 108MP + 12MP + 2MP","os":"Android 13"},"colors":["مشکی","طلایی"],"description":"میان‌رده پوگو با نمایشگر بهتر","rating":4.3,"user_reviews":[{"title":"خوب","comment":"عملکرد و دوربین مناسب است.","sentiment":"مثبت","score":4}]},
-                {"name":"پوگو Z5 پیشرفته\nحافظه 512 گیگابایت رم 12 گیگابایت","images":["/images/pogoz5_1.jpg"],"specs":{"processor":"Unisoc Tiger T720","screen":"6.6 اینچ IPS LCD, 120Hz","memory":"12GB رم / 512GB حافظه داخلی","battery":"4500mAh","camera":"چهارگانه 200MP + 12MP + 10MP + 10MP","os":"Android 14"},"colors":["مشکی","طلایی"],"description":"پرچمدار پوگو با دوربین حرفه‌ای","rating":4.7,"user_reviews":[{"title":"عالی","comment":"بهترین عملکرد و دوربین را دارد.","sentiment":"مثبت","score":5}]},
-                {"name":"پوگو Z6 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت","images":["/images/pogoz6_1.jpg"],"specs":{"processor":"Unisoc Tiger T710","screen":"6.5 اینچ IPS LCD, 90Hz","memory":"8GB رم / 256GB حافظه داخلی","battery":"4400mAh","camera":"سه‌گانه 108MP + 12MP + 2MP","os":"Android 13"},"colors":["مشکی","نقره‌ای"],"description":"میان‌رده پوگو با عملکرد خوب","rating":4.4,"user_reviews":[{"title":"خوب","comment":"عملکرد روزمره مناسب است.","sentiment":"مثبت","score":4}]},
-                {"name":"پوگو Z7 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت","images":["/images/pogoz7_1.jpg"],"specs":{"processor":"Unisoc Tiger T700","screen":"6.4 اینچ IPS LCD, 60Hz","memory":"6GB رم / 128GB حافظه داخلی","battery":"4000mAh","camera":"دوگانه 64MP + 8MP","os":"Android 12"},"colors":["مشکی","طلایی"],"description":"مدل اقتصادی و سبک پوگو","rating":4.2,"user_reviews":[{"title":"خوب","comment":"قیمت مناسب و عملکرد کافی.","sentiment":"مثبت","score":4}]},
-                {"name":"پوگو Z8 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت","images":["/images/pogoz8_1.jpg"],"specs":{"processor":"Unisoc Tiger T710","screen":"6.5 اینچ IPS LCD, 90Hz","memory":"8GB رم / 256GB حافظه داخلی","battery":"4300mAh","camera":"سه‌گانه 108MP + 12MP + 2MP","os":"Android 13"},"colors":["مشکی","طلایی"],"description":"میان‌رده قابل اعتماد پوگو","rating":4.3,"user_reviews":[{"title":"خوب","comment":"عملکرد و دوربین مناسب است.","sentiment":"مثبت","score":4}]},
-                {"name":"پوگو Z9 پیشرفته\nحافظه 512 گیگابایت رم 12 گیگابایت","images":["/images/pogoz9_1.jpg"],"specs":{"processor":"Unisoc Tiger T720","screen":"6.6 اینچ IPS LCD, 120Hz","memory":"12GB رم / 512GB حافظه داخلی","battery":"4500mAh","camera":"چهارگانه 200MP + 12MP + 10MP + 10MP","os":"Android 14"},"colors":["مشکی","طلایی"],"description":"پرچمدار پوگو با بهترین عملکرد","rating":4.8,"user_reviews":[{"title":"عالی","comment":"بهترین عملکرد و دوربین را دارد.","sentiment":"مثبت","score":5}]},
-                {"name":"پوگو Z10 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت","images":["/images/pogoz10_1.jpg"],"specs":{"processor":"Unisoc Tiger T700","screen":"6.4 اینچ IPS LCD, 60Hz","memory":"6GB رم / 128GB حافظه داخلی","battery":"4000mAh","camera":"دوگانه 64MP + 8MP","os":"Android 12"},"colors":["مشکی","نقره‌ای"],"description":"اقتصادی و مناسب استفاده روزمره","rating":4.2,"user_reviews":[{"title":"خوب","comment":"برای قیمتش امکانات کافی دارد.","sentiment":"مثبت","score":4}]}
+                {
+                    "name": "پوگو Z1 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت",
+                    "images": [
+                        "/images/pogoz1_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Unisoc Tiger T700",
+                        "screen": "6.4 اینچ IPS LCD, 60Hz",
+                        "memory": "6GB رم / 128GB حافظه داخلی",
+                        "battery": "4000mAh",
+                        "camera": "دوگانه 64MP + 8MP",
+                        "os": "Android 12"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای"
+                    ],
+                    "description": "گوشی پوگو با قیمت مناسب و عملکرد خوب برای استفاده روزمره",
+                    "rating": 4.3,
+                    "user_reviews": [
+                        {
+                            "title": "قیمت مناسب",
+                            "comment": "برای قیمتش امکانات خوبی دارد.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "پوگو Z2 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/pogoz2_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Unisoc Tiger T710",
+                        "screen": "6.5 اینچ IPS LCD, 90Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4300mAh",
+                        "camera": "سه‌گانه 108MP + 8MP + 2MP",
+                        "os": "Android 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "میان‌رده پوگو با دوربین بهتر",
+                    "rating": 4.4,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "عملکرد مناسب و باتری خوب.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "پوگو Z3 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت",
+                    "images": [
+                        "/images/pogoz3_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Unisoc Tiger T700",
+                        "screen": "6.4 اینچ IPS LCD, 60Hz",
+                        "memory": "6GB رم / 128GB حافظه داخلی",
+                        "battery": "4000mAh",
+                        "camera": "دوگانه 64MP + 8MP",
+                        "os": "Android 12"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "آبی"
+                    ],
+                    "description": "مدل اقتصادی پوگو با باتری مناسب",
+                    "rating": 4.2,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "برای استفاده روزمره کافی است.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "پوگو Z4 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/pogoz4_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Unisoc Tiger T710",
+                        "screen": "6.5 اینچ IPS LCD, 90Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4300mAh",
+                        "camera": "سه‌گانه 108MP + 12MP + 2MP",
+                        "os": "Android 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "میان‌رده پوگو با نمایشگر بهتر",
+                    "rating": 4.3,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "عملکرد و دوربین مناسب است.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "پوگو Z5 پیشرفته\nحافظه 512 گیگابایت رم 12 گیگابایت",
+                    "images": [
+                        "/images/pogoz5_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Unisoc Tiger T720",
+                        "screen": "6.6 اینچ IPS LCD, 120Hz",
+                        "memory": "12GB رم / 512GB حافظه داخلی",
+                        "battery": "4500mAh",
+                        "camera": "چهارگانه 200MP + 12MP + 10MP + 10MP",
+                        "os": "Android 14"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "پرچمدار پوگو با دوربین حرفه‌ای",
+                    "rating": 4.7,
+                    "user_reviews": [
+                        {
+                            "title": "عالی",
+                            "comment": "بهترین عملکرد و دوربین را دارد.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "پوگو Z6 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/pogoz6_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Unisoc Tiger T710",
+                        "screen": "6.5 اینچ IPS LCD, 90Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4400mAh",
+                        "camera": "سه‌گانه 108MP + 12MP + 2MP",
+                        "os": "Android 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای"
+                    ],
+                    "description": "میان‌رده پوگو با عملکرد خوب",
+                    "rating": 4.4,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "عملکرد روزمره مناسب است.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "پوگو Z7 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت",
+                    "images": [
+                        "/images/pogoz7_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Unisoc Tiger T700",
+                        "screen": "6.4 اینچ IPS LCD, 60Hz",
+                        "memory": "6GB رم / 128GB حافظه داخلی",
+                        "battery": "4000mAh",
+                        "camera": "دوگانه 64MP + 8MP",
+                        "os": "Android 12"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "مدل اقتصادی و سبک پوگو",
+                    "rating": 4.2,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "قیمت مناسب و عملکرد کافی.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "پوگو Z8 میان‌رده\nحافظه 256 گیگابایت رم 8 گیگابایت",
+                    "images": [
+                        "/images/pogoz8_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Unisoc Tiger T710",
+                        "screen": "6.5 اینچ IPS LCD, 90Hz",
+                        "memory": "8GB رم / 256GB حافظه داخلی",
+                        "battery": "4300mAh",
+                        "camera": "سه‌گانه 108MP + 12MP + 2MP",
+                        "os": "Android 13"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "میان‌رده قابل اعتماد پوگو",
+                    "rating": 4.3,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "عملکرد و دوربین مناسب است.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "پوگو Z9 پیشرفته\nحافظه 512 گیگابایت رم 12 گیگابایت",
+                    "images": [
+                        "/images/pogoz9_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Unisoc Tiger T720",
+                        "screen": "6.6 اینچ IPS LCD, 120Hz",
+                        "memory": "12GB رم / 512GB حافظه داخلی",
+                        "battery": "4500mAh",
+                        "camera": "چهارگانه 200MP + 12MP + 10MP + 10MP",
+                        "os": "Android 14"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "طلایی"
+                    ],
+                    "description": "پرچمدار پوگو با بهترین عملکرد",
+                    "rating": 4.8,
+                    "user_reviews": [
+                        {
+                            "title": "عالی",
+                            "comment": "بهترین عملکرد و دوربین را دارد.",
+                            "sentiment": "مثبت",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "پوگو Z10 اقتصادی\nحافظه 128 گیگابایت رم 6 گیگابایت",
+                    "images": [
+                        "/images/pogoz10_1.jpg"
+                    ],
+                    "specs": {
+                        "processor": "Unisoc Tiger T700",
+                        "screen": "6.4 اینچ IPS LCD, 60Hz",
+                        "memory": "6GB رم / 128GB حافظه داخلی",
+                        "battery": "4000mAh",
+                        "camera": "دوگانه 64MP + 8MP",
+                        "os": "Android 12"
+                    },
+                    "colors": [
+                        "مشکی",
+                        "نقره‌ای"
+                    ],
+                    "description": "اقتصادی و مناسب استفاده روزمره",
+                    "rating": 4.2,
+                    "user_reviews": [
+                        {
+                            "title": "خوب",
+                            "comment": "برای قیمتش امکانات کافی دارد.",
+                            "sentiment": "مثبت",
+                            "score": 4
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "SmartFlagships": [
+        {
+            "name": "آیفون 15 پرو مکس\nحافظه 256 گیگابایت رم 8 گیگابایت",
+            "images": [
+                "/images/iphone15promax_1.jpg"
+            ],
+            "specs": {
+                "processor": "Apple A17 Pro",
+                "screen": "6.7 اینچ LTPO OLED, 120Hz",
+                "memory": "8GB رم / 256GB حافظه داخلی",
+                "battery": "4422mAh",
+                "camera": "سه‌گانه 48MP + 12MP + 12MP",
+                "os": "iOS 17"
+            },
+            "colors": [
+                "مشکی",
+                "نقره‌ای",
+                "آبی"
+            ],
+            "description": "پرچمدار قدرتمند اپل با بدنه تیتانیومی و عملکرد بسیار سریع",
+            "rating": 4.9,
+            "user_reviews": [
+                {
+                    "title": "عالی",
+                    "comment": "کیفیت ساخت و سرعت فوق‌العاده",
+                    "sentiment": "مثبت",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "name": "سامسونگ گلکسی S24 اولترا\nحافظه 512 گیگابایت رم 12 گیگابایت",
+            "images": [
+                "/images/s24ultra_1.jpg"
+            ],
+            "specs": {
+                "processor": "Snapdragon 8 Gen 3",
+                "screen": "6.8 اینچ Dynamic AMOLED 2X, 120Hz",
+                "memory": "12GB رم / 512GB حافظه داخلی",
+                "battery": "5000mAh",
+                "camera": "چهارگانه 200MP + 50MP + 12MP + 10MP",
+                "os": "Android 14"
+            },
+            "colors": [
+                "مشکی",
+                "خاکستری",
+                "بنفش"
+            ],
+            "description": "پرچمدار سامسونگ با قلم S Pen و دوربین بسیار حرفه‌ای",
+            "rating": 4.8,
+            "user_reviews": [
+                {
+                    "title": "دوربین عالی",
+                    "comment": "زوم و کیفیت تصویر بی‌نظیر",
+                    "sentiment": "مثبت",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "name": "شیائومی 14 اولترا\nحافظه 512 گیگابایت رم 16 گیگابایت",
+            "images": [
+                "/images/xiaomi14ultra_1.jpg"
+            ],
+            "specs": {
+                "processor": "Snapdragon 8 Gen 3",
+                "screen": "6.73 اینچ AMOLED, 120Hz",
+                "memory": "16GB رم / 512GB حافظه داخلی",
+                "battery": "5300mAh",
+                "camera": "چهارگانه 50MP لایکا",
+                "os": "Android 14 (HyperOS)"
+            },
+            "colors": [
+                "مشکی",
+                "سفید"
+            ],
+            "description": "پرچمدار شیائومی با تمرکز ویژه بر عکاسی حرفه‌ای",
+            "rating": 4.8,
+            "user_reviews": [
+                {
+                    "title": "قدرت بالا",
+                    "comment": "بسیار سریع و قدرتمند",
+                    "sentiment": "مثبت",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "name": "گوگل پیکسل 8 پرو\nحافظه 256 گیگابایت رم 12 گیگابایت",
+            "images": [
+                "/images/pixel8pro_1.jpg"
+            ],
+            "specs": {
+                "processor": "Google Tensor G3",
+                "screen": "6.7 اینچ LTPO OLED, 120Hz",
+                "memory": "12GB رم / 256GB حافظه داخلی",
+                "battery": "5050mAh",
+                "camera": "سه‌گانه 50MP + 48MP + 48MP",
+                "os": "Android 14"
+            },
+            "colors": [
+                "مشکی",
+                "آبی"
+            ],
+            "description": "پرچمدار گوگل با هوش مصنوعی پیشرفته و اندروید خالص",
+            "rating": 4.7,
+            "user_reviews": [
+                {
+                    "title": "نرم‌افزار عالی",
+                    "comment": "دوربین و AI فوق‌العاده",
+                    "sentiment": "مثبت",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "name": "وان‌پلاس 12 پرو\nحافظه 256 گیگابایت رم 12 گیگابایت",
+            "images": [
+                "/images/oneplus12pro_1.jpg"
+            ],
+            "specs": {
+                "processor": "Snapdragon 8 Gen 3",
+                "screen": "6.82 اینچ AMOLED, 120Hz",
+                "memory": "12GB رم / 256GB حافظه داخلی",
+                "battery": "5400mAh",
+                "camera": "سه‌گانه 50MP هسلبلاد",
+                "os": "Android 14"
+            },
+            "colors": [
+                "سبز",
+                "مشکی"
+            ],
+            "description": "پرچمدار وان‌پلاس با شارژ فوق سریع و عملکرد روان",
+            "rating": 4.6,
+            "user_reviews": [
+                {
+                    "title": "شارژ سریع",
+                    "comment": "خیلی زود شارژ می‌شود",
+                    "sentiment": "مثبت",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "name": "سونی اکسپریا 1 مارک 5\nحافظه 256 گیگابایت رم 12 گیگابایت",
+            "images": [
+                "/images/xperia1v_1.jpg"
+            ],
+            "specs": {
+                "processor": "Snapdragon 8 Gen 2",
+                "screen": "6.5 اینچ OLED 4K, 120Hz",
+                "memory": "12GB رم / 256GB حافظه داخلی",
+                "battery": "5000mAh",
+                "camera": "سه‌گانه 48MP زایس",
+                "os": "Android 13"
+            },
+            "colors": [
+                "مشکی",
+                "خاکستری"
+            ],
+            "description": "پرچمدار سونی با نمایشگر 4K و دوربین سینمایی",
+            "rating": 4.5,
+            "user_reviews": [
+                {
+                    "title": "نمایشگر خاص",
+                    "comment": "کیفیت تصویر عالی",
+                    "sentiment": "مثبت",
+                    "score": 4
+                }
             ]
         }
     ]

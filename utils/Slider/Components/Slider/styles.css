@@ -15,6 +15,15 @@
   align-items: center;
 }
 
+.mySwiperOffer .swiper-slide:only-child{
+  border-left: 2px solid red;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .mySwiperOffer .swiper-slide img {
   display: block;
   width: 100%;
