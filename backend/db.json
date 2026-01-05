@@ -1248,11 +1248,29 @@
             ]
         }
     ],
-    "SmartFlagships": [
+    "smartFlagships": [
         {
+            "id": "1",
             "name": "آیفون 15 پرو مکس\nحافظه 256 گیگابایت رم 8 گیگابایت",
+            "mainImage": [
+                {
+                    "code": "orange",
+                    "img": "/Images/iphone.webp"
+                },
+                {
+                    "code": "silver",
+                    "img": "/Images/6.webp"
+                },
+                {
+                    "code": "darkblue",
+                    "img": "/Images/7.webp"
+                }
+            ],
             "images": [
-                "/images/iphone15promax_1.jpg"
+                "/Images/3.webp",
+                "/Images/4.webp",
+                "/Images/5.webp",
+                "/Images/6.webp"
             ],
             "specs": {
                 "processor": "Apple A17 Pro",
@@ -1263,9 +1281,18 @@
                 "os": "iOS 17"
             },
             "colors": [
-                "مشکی",
-                "نقره‌ای",
-                "آبی"
+                {
+                    "name": "نارنجی",
+                    "code": "orange"
+                },
+                {
+                    "name": "نقره ای",
+                    "code": "silver"
+                },
+                {
+                    "name": "آبی تیره",
+                    "code": "darkblue"
+                }
             ],
             "description": "پرچمدار قدرتمند اپل با بدنه تیتانیومی و عملکرد بسیار سریع",
             "rating": 4.9,
@@ -1279,9 +1306,14 @@
             ]
         },
         {
+            "id": "2",
             "name": "سامسونگ گلکسی S24 اولترا\nحافظه 512 گیگابایت رم 12 گیگابایت",
+            "mainImage": "/images/s24ultra_main.jpg",
             "images": [
-                "/images/s24ultra_1.jpg"
+                "/images/s24ultra_1.jpg",
+                "/images/s24ultra_2.jpg",
+                "/images/s24ultra_3.jpg",
+                "/images/s24ultra_4.jpg"
             ],
             "specs": {
                 "processor": "Snapdragon 8 Gen 3",
@@ -1308,9 +1340,14 @@
             ]
         },
         {
+            "id": "3",
             "name": "شیائومی 14 اولترا\nحافظه 512 گیگابایت رم 16 گیگابایت",
+            "mainImage": "/images/xiaomi14ultra_main.jpg",
             "images": [
-                "/images/xiaomi14ultra_1.jpg"
+                "/images/xiaomi14ultra_1.jpg",
+                "/images/xiaomi14ultra_2.jpg",
+                "/images/xiaomi14ultra_3.jpg",
+                "/images/xiaomi14ultra_4.jpg"
             ],
             "specs": {
                 "processor": "Snapdragon 8 Gen 3",
@@ -1318,7 +1355,7 @@
                 "memory": "16GB رم / 512GB حافظه داخلی",
                 "battery": "5300mAh",
                 "camera": "چهارگانه 50MP لایکا",
-                "os": "Android 14 (HyperOS)"
+                "os": "Android 14"
             },
             "colors": [
                 "مشکی",
@@ -1336,9 +1373,14 @@
             ]
         },
         {
+            "id": "4",
             "name": "گوگل پیکسل 8 پرو\nحافظه 256 گیگابایت رم 12 گیگابایت",
+            "mainImage": "/images/pixel8pro_main.jpg",
             "images": [
-                "/images/pixel8pro_1.jpg"
+                "/images/pixel8pro_1.jpg",
+                "/images/pixel8pro_2.jpg",
+                "/images/pixel8pro_3.jpg",
+                "/images/pixel8pro_4.jpg"
             ],
             "specs": {
                 "processor": "Google Tensor G3",
@@ -1364,9 +1406,14 @@
             ]
         },
         {
+            "id": "5",
             "name": "وان‌پلاس 12 پرو\nحافظه 256 گیگابایت رم 12 گیگابایت",
+            "mainImage": "/images/oneplus12pro_main.jpg",
             "images": [
-                "/images/oneplus12pro_1.jpg"
+                "/images/oneplus12pro_1.jpg",
+                "/images/oneplus12pro_2.jpg",
+                "/images/oneplus12pro_3.jpg",
+                "/images/oneplus12pro_4.jpg"
             ],
             "specs": {
                 "processor": "Snapdragon 8 Gen 3",
@@ -1392,9 +1439,14 @@
             ]
         },
         {
+            "id": "6",
             "name": "سونی اکسپریا 1 مارک 5\nحافظه 256 گیگابایت رم 12 گیگابایت",
+            "mainImage": "/images/xperia1v_main.jpg",
             "images": [
-                "/images/xperia1v_1.jpg"
+                "/images/xperia1v_1.jpg",
+                "/images/xperia1v_2.jpg",
+                "/images/xperia1v_3.jpg",
+                "/images/xperia1v_4.jpg"
             ],
             "specs": {
                 "processor": "Snapdragon 8 Gen 2",
@@ -1416,6 +1468,303 @@
                     "comment": "کیفیت تصویر عالی",
                     "sentiment": "مثبت",
                     "score": 4
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "اوپو فایند X7 پرو\nحافظه 256 گیگابایت رم 12 گیگابایت",
+            "mainImage": "/images/oppo_findx7pro_main.jpg",
+            "images": [
+                "/images/oppo_findx7pro_1.jpg",
+                "/images/oppo_findx7pro_2.jpg",
+                "/images/oppo_findx7pro_3.jpg",
+                "/images/oppo_findx7pro_4.jpg"
+            ],
+            "specs": {
+                "processor": "Snapdragon 8 Gen 3",
+                "screen": "6.8 اینچ AMOLED, 120Hz",
+                "memory": "12GB رم / 256GB حافظه داخلی",
+                "battery": "5000mAh",
+                "camera": "سه‌گانه 50MP + 50MP + 64MP",
+                "os": "Android 14"
+            },
+            "colors": [
+                "سفید",
+                "مشکی"
+            ],
+            "description": "پرچمدار اوپو با عکاسی حرفه‌ای و شارژ سریع",
+            "rating": 4.6,
+            "user_reviews": [
+                {
+                    "title": "دوربین خوب",
+                    "comment": "عکس‌های روز عالی",
+                    "sentiment": "مثبت",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "ویوو X100 پرو\nحافظه 512 گیگابایت رم 12 گیگابایت",
+            "mainImage": "/images/vivo_x100pro_main.jpg",
+            "images": [
+                "/images/vivo_x100pro_1.jpg",
+                "/images/vivo_x100pro_2.jpg",
+                "/images/vivo_x100pro_3.jpg",
+                "/images/vivo_x100pro_4.jpg"
+            ],
+            "specs": {
+                "processor": "Snapdragon 8 Gen 2",
+                "screen": "6.78 اینچ AMOLED, 120Hz",
+                "memory": "12GB رم / 512GB حافظه داخلی",
+                "battery": "5000mAh",
+                "camera": "سیستم 50MP Zeiss",
+                "os": "Android 14"
+            },
+            "colors": [
+                "آبی",
+                "مشکی"
+            ],
+            "description": "پرچمدار ویوو با تمرکز بر دوربین و نمایشگر",
+            "rating": 4.5,
+            "user_reviews": [
+                {
+                    "title": "نمایشگر عالی",
+                    "comment": "تصاویر خیلی شارپ",
+                    "sentiment": "مثبت",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "شیائومی می 12 اولترا\nحافظه 256 گیگابایت رم 12 گیگابایت",
+            "mainImage": "/images/xiaomi12ultra_main.jpg",
+            "images": [
+                "/images/xiaomi12ultra_1.jpg",
+                "/images/xiaomi12ultra_2.jpg",
+                "/images/xiaomi12ultra_3.jpg",
+                "/images/xiaomi12ultra_4.jpg"
+            ],
+            "specs": {
+                "processor": "Snapdragon 8 Gen 1",
+                "screen": "6.73 اینچ AMOLED, 120Hz",
+                "memory": "12GB رم / 256GB حافظه داخلی",
+                "battery": "5000mAh",
+                "camera": "سیستم 50MP لایکا",
+                "os": "Android 12"
+            },
+            "colors": [
+                "سیاه",
+                "نقره‌ای"
+            ],
+            "description": "پرچمدار قدیمی‌تر ولی هنوز قدرتمند شیائومی",
+            "rating": 4.4,
+            "user_reviews": [
+                {
+                    "title": "قدرت خوب",
+                    "comment": "برای بازی عالیه",
+                    "sentiment": "مثبت",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "آیفون 15 پرو\nحافظه 256 گیگابایت رم 8 گیگابایت",
+            "mainImage": "/images/iphone15pro_main.jpg",
+            "images": [
+                "/images/iphone15pro_1.jpg",
+                "/images/iphone15pro_2.jpg",
+                "/images/iphone15pro_3.jpg",
+                "/images/iphone15pro_4.jpg"
+            ],
+            "specs": {
+                "processor": "Apple A17 Pro",
+                "screen": "6.1 اینچ OLED, 120Hz",
+                "memory": "8GB رم / 256GB حافظه داخلی",
+                "battery": "3279mAh",
+                "camera": "سه‌گانه 48MP + 12MP + 12MP",
+                "os": "iOS 17"
+            },
+            "colors": [
+                "طلایی",
+                "مشکی"
+            ],
+            "description": "نسخه کوچک‌تر ولی پرقدرت آیفون 15 پرو",
+            "rating": 4.8,
+            "user_reviews": [
+                {
+                    "title": "عالی",
+                    "comment": "همه چیز عالیه",
+                    "sentiment": "مثبت",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "سامسونگ گلکسی Z فولد 5\nحافظه 512 گیگابایت رم 12 گیگابایت",
+            "mainImage": "/images/galaxyzfold5_main.jpg",
+            "images": [
+                "/images/galaxyzfold5_1.jpg",
+                "/images/galaxyzfold5_2.jpg",
+                "/images/galaxyzfold5_3.jpg",
+                "/images/galaxyzfold5_4.jpg"
+            ],
+            "specs": {
+                "processor": "Snapdragon 8 Gen 2",
+                "screen": "7.6 اینچ + 6.2 اینچ AMOLED, 120Hz",
+                "memory": "12GB رم / 512GB حافظه داخلی",
+                "battery": "4400mAh",
+                "camera": "سه‌گانه 50MP",
+                "os": "Android 13"
+            },
+            "colors": [
+                "مشکی",
+                "سبز"
+            ],
+            "description": "پرچمدار تاشو سامسونگ با تجربه‌ی خاص",
+            "rating": 4.7,
+            "user_reviews": [
+                {
+                    "title": "منحصر به فرد",
+                    "comment": "صفحه تاشو عالیه",
+                    "sentiment": "مثبت",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "name": "گوگل پیکسل 8\nحافظه 128 گیگابایت رم 8 گیگابایت",
+            "mainImage": "/images/pixel8_main.jpg",
+            "images": [
+                "/images/pixel8_1.jpg",
+                "/images/pixel8_2.jpg",
+                "/images/pixel8_3.jpg",
+                "/images/pixel8_4.jpg"
+            ],
+            "specs": {
+                "processor": "Google Tensor G3",
+                "screen": "6.2 اینچ OLED, 120Hz",
+                "memory": "8GB رم / 128GB حافظه داخلی",
+                "battery": "4575mAh",
+                "camera": "دوگانه 50MP + 12MP",
+                "os": "Android 14"
+            },
+            "colors": [
+                "آبی",
+                "سیاه"
+            ],
+            "description": "نسخه کوچکتر و اقتصادی‌تر پیکسل 8 پرو",
+            "rating": 4.6,
+            "user_reviews": [
+                {
+                    "title": "قدرتمند",
+                    "comment": "برای روزمره عالیه",
+                    "sentiment": "مثبت",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "name": "اوپو رینو 10 پرو پلاس\nحافظه 256 گیگابایت رم 12 گیگابایت",
+            "mainImage": "/images/oppo_reno10proplus_main.jpg",
+            "images": [
+                "/images/oppo_reno10proplus_1.jpg",
+                "/images/oppo_reno10proplus_2.jpg",
+                "/images/oppo_reno10proplus_3.jpg",
+                "/images/oppo_reno10proplus_4.jpg"
+            ],
+            "specs": {
+                "processor": "Snapdragon 8+ Gen 1",
+                "screen": "6.7 اینچ AMOLED, 120Hz",
+                "memory": "12GB رم / 256GB حافظه داخلی",
+                "battery": "4500mAh",
+                "camera": "سه‌گانه 50MP",
+                "os": "Android 13"
+            },
+            "colors": [
+                "نقره‌ای",
+                "مشکی"
+            ],
+            "description": "پرچمدار خوش‌قیمت اوپو با دوربین قوی",
+            "rating": 4.4,
+            "user_reviews": [
+                {
+                    "title": "دوربین خوب",
+                    "comment": "عکس‌ها زیبا می‌شوند",
+                    "sentiment": "مثبت",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "name": "ویوو X90 پرو\nحافظه 256 گیگابایت رم 12 گیگابایت",
+            "mainImage": "/images/vivo_x90pro_main.jpg",
+            "images": [
+                "/images/vivo_x90pro_1.jpg",
+                "/images/vivo_x90pro_2.jpg",
+                "/images/vivo_x90pro_3.jpg",
+                "/images/vivo_x90pro_4.jpg"
+            ],
+            "specs": {
+                "processor": "Snapdragon 8 Gen 2",
+                "screen": "6.78 اینچ AMOLED, 120Hz",
+                "memory": "12GB رم / 256GB حافظه داخلی",
+                "battery": "4700mAh",
+                "camera": "سیستم 50MP Zeiss",
+                "os": "Android 13"
+            },
+            "colors": [
+                "طلایی",
+                "سیاه"
+            ],
+            "description": "پرچمدار ویوو با دوربین حرفه‌ای Zeiss",
+            "rating": 4.5,
+            "user_reviews": [
+                {
+                    "title": "عکس فوق‌العاده",
+                    "comment": "رنگ‌ها بسیار زیبا",
+                    "sentiment": "مثبت",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "name": "شیائومی 13 اولترا\nحافظه 256 گیگابایت رم 12 گیگابایت",
+            "mainImage": "/images/xiaomi13ultra_main.jpg",
+            "images": [
+                "/images/xiaomi13ultra_1.jpg",
+                "/images/xiaomi13ultra_2.jpg",
+                "/images/xiaomi13ultra_3.jpg",
+                "/images/xiaomi13ultra_4.jpg"
+            ],
+            "specs": {
+                "processor": "Snapdragon 8 Gen 2",
+                "screen": "6.73 اینچ AMOLED, 120Hz",
+                "memory": "12GB رم / 256GB حافظه داخلی",
+                "battery": "5000mAh",
+                "camera": "چهارگانه 50MP",
+                "os": "Android 13"
+            },
+            "colors": [
+                "مشکی",
+                "نقره‌ای"
+            ],
+            "description": "پرچمدار شیائومی با دوربین حرفه‌ای و نمایشگر عالی",
+            "rating": 4.6,
+            "user_reviews": [
+                {
+                    "title": "صفحه عالی",
+                    "comment": "رنگ‌ها دقیق و روشن",
+                    "sentiment": "مثبت",
+                    "score": 5
                 }
             ]
         }

@@ -1,16 +1,24 @@
 // Import Swiper React components
+import { Pagination } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
-// Import Swiper styles
+// @ts-ignore
+
 import 'swiper/css';
+// @ts-ignore
+
 import 'swiper/css/pagination';
 
 import './styles.css';
 
+
+interface ISliderProps {
+    data: IProductSlider[]
+}
 // import required modules
 import BoxItemOffer from '../BoxItemOffer';
-
-export default function Slider(OfferTimes: boolean) {
+import type { IProductSlider } from '../../../../src/global';
+export default function Slider({ data }: ISliderProps) {
     return (
         <>
             <Swiper
@@ -19,31 +27,15 @@ export default function Slider(OfferTimes: boolean) {
                 pagination={{
                     clickable: true,
                 }}
-                // modules={[Pagination]}   
                 className={`mySwiperOffer 
-    ${!OfferTimes && '[&_.swiper-slide]:border-slate-300   [&_.swiper-slide]:pl-2 [&_.swiper-slide]:pr-2 [&_.swiper-slide]:border-l'}   `}
+            ${'[&_.swiper-slide]:border-slate-300   [&_.swiper-slide]:pl-2 [&_.swiper-slide]:pr-2 [&_.swiper-slide]:border-l'}   `}
             >
-                <SwiperSlide>          <BoxItemOffer />
-                </SwiperSlide>
-                <SwiperSlide>          <BoxItemOffer />
-                </SwiperSlide>
-                <SwiperSlide>          <BoxItemOffer />
-                </SwiperSlide>
-                <SwiperSlide>          <BoxItemOffer />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <BoxItemOffer />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <BoxItemOffer />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <BoxItemOffer />
-                </SwiperSlide>
-                <SwiperSlide>          <BoxItemOffer />
-                </SwiperSlide>
-                <SwiperSlide>          <BoxItemOffer />
-                </SwiperSlide>
+
+                {data?.map(item => (
+                    <SwiperSlide>
+                        <BoxItemOffer product={item} />
+                    </SwiperSlide>
+                ))}
             </Swiper>
         </>
     );
