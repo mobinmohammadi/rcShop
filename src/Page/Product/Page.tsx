@@ -10,7 +10,7 @@ export default function Page() {
     return (
         <div className='container-custom'>
             <Header />
-            <div className="mt-5  flex  ">
+            <div className="mt-5 gap-5 flex  ">
                 <RightContent/>
                 <LeftContent />
             </div>
