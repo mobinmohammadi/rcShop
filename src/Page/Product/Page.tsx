@@ -8,9 +8,9 @@ export default function Page() {
     
 
     return (
-        <div className='container-custom'>
+        <div className=''>
             <Header />
-            <div className="mt-5 gap-5 flex  ">
+            <div className="mt-5 px-5   gap-5 flex flex-col ">
                 <RightContent/>
                 <LeftContent />
             </div>

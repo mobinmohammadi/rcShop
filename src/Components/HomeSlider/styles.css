@@ -4,7 +4,7 @@
 }
 .my-slider-1 .swiper {
   width: 100%;
-  height: 200px;
+  height: 300px;
   margin-top: 20px;
 }
 
@@ -35,7 +35,7 @@
 
 
 .my-slider-1 .swiper-slide{
-    width: 200px!important;
+    width: 100px!important;
     direction: rtl;
     margin-top: 20px;
 } 

@@ -13,7 +13,7 @@ function BoxItemOffer({product} : BoxItemOfferProps) {
             <img className='w-full ' src='./Images/iphone.webp' alt="" />
             <Link to={`/product/${product.id}`} className=' text-xs leading-5 line-clamp-2'>{product.name}</Link>
             <div className="flex justify-between">
-                <div className="bg-red-700 h-6 flex items-start  justify-center pt-1 pb-1 rounded-xs text-xxs text-white w-10">
+                <div className="bg-red-700 h-3 sm:h-6 flex items-center  sm:items-start py-2 sm:py-1 justify-center  rounded-xs text-x sm:text-xxs text-white w-10">
                     <span className="">28%</span>
                 </div>
                 <div className="flex flex-col gap-3">
@@ -21,7 +21,7 @@ function BoxItemOffer({product} : BoxItemOfferProps) {
                         <span className="text-md">768,000</span>
                         <span className="text-xs">تومان</span>
                     </div>
-                    <span className='text-slate-400 text-xs'>1200,000</span>
+                    <span className='text-slate-400 text-xs line-through'>1200,000</span>
                 </div>
             </div>
         </div>

@@ -2,8 +2,10 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';
 import { useRef } from 'react';
 
-import 'swiper/css';
-import 'swiper/css/pagination';
+import "./SliderHeader.css"
+
+// import 'swiper/css';
+// import 'swiper/css/pagination';
 
 export default function SliderHeader() {
   const swiperRef = useRef<any>(null);
@@ -23,15 +25,15 @@ export default function SliderHeader() {
         className="my-slider-2"
       >
         <SwiperSlide>
-          <img src="https://www.technolife.com/image/banner_SlideBanner_LaTbSD_b1cc98b0-46fc-405f-bb8f-606243e01838.png" />
+          <img className='h-full' src="https://www.technolife.com/image/banner_SlideBanner_LaTbSD_b1cc98b0-46fc-405f-bb8f-606243e01838.png" />
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src="https://www.technolife.com/image/banner_SlideBanner_LaTbSD_b1cc98b0-46fc-405f-bb8f-606243e01838.png" />
+          <img className='h-full' src="https://www.technolife.com/image/banner_SlideBanner_LaTbSD_b1cc98b0-46fc-405f-bb8f-606243e01838.png" />
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src="https://www.technolife.com/image/banner_SlideBanner_LaTbSD_b1cc98b0-46fc-405f-bb8f-606243e01838.png" />
+          <img className='h-full' src="https://www.technolife.com/image/banner_SlideBanner_LaTbSD_b1cc98b0-46fc-405f-bb8f-606243e01838.png" />
         </SwiperSlide>
       </Swiper>
 
